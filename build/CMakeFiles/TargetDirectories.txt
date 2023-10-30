@@ -1,0 +1,6 @@
+/home/basicecho/Desktop/project/VideoPlayer/build/CMakeFiles/rebuild_cache.dir
+/home/basicecho/Desktop/project/VideoPlayer/build/CMakeFiles/edit_cache.dir
+/home/basicecho/Desktop/project/VideoPlayer/build/CMakeFiles/player.dir
+/home/basicecho/Desktop/project/VideoPlayer/build/src/CMakeFiles/rebuild_cache.dir
+/home/basicecho/Desktop/project/VideoPlayer/build/src/CMakeFiles/edit_cache.dir
+/home/basicecho/Desktop/project/VideoPlayer/build/src/CMakeFiles/SRC_LIST.dir

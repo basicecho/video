@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -O2 -pthread -g  -rdynamic CMakeFiles/player.dir/main.cpp.o  -o player   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lavformat -lavcodec -lswscale -lavutil -lswresample src/libSRC_LIST.a -lavformat -lavcodec -lswscale -lavutil -lswresample /usr/local/lib/libSDL2.so 
